@@ -3,6 +3,9 @@
 CLAUDE.md
 AGENTS.md
 
+# Personal notes
+notes*.txt
+
 # Python
 __pycache__/
 *.py[cod]
