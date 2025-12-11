@@ -1,0 +1,3 @@
+timestamp,tag,date_range,rmse,baseline_rmse,selected_model,runtime,model_version,model_version_note,test
+2025-12-11T23:20:14.209156+00:00,all,2017-11-29|2019-05-31,46748,93922,rf,000:00:03,0.1,supervised learing model for time-series,True
+2025-12-11T23:20:15.290538+00:00,united_kingdom,2017-11-30|2019-05-30,32427,87290,rf,000:00:01,0.1,supervised learing model for time-series,True

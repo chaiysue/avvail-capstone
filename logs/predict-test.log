@@ -1,0 +1,2 @@
+timestamp,country,target_date,prediction,proba,runtime,model_version,test
+2025-12-11T23:20:31.076635+00:00,all,2018-01-05,181474.95200000002,,000:00:00,0.1,True

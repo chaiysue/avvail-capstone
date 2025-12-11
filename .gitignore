@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.venv310/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.coveragerc
+
+# Model artifacts (optional - uncomment if you don't want to commit models)
+# models/*.joblib
+# !models/.gitkeep
+
+# Generated data cache
+cs-train/ts-data/
+cs-production/ts-data/
+solution-guidance/ts-data/
+
+# Logs (optional - uncomment if you don't want to commit logs)
+# logs/*.log
+# !logs/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.~*
+
+# Data files (if you don't want to commit large JSON files)
+# cs-train/*.json
+# cs-production/*.json
