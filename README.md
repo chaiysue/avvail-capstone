@@ -524,7 +524,6 @@ avvail-capstone/
 ├── Dockerfile                  # Docker container configuration
 ├── requirements.txt            # pip dependencies
 ├── pyproject.toml              # uv/modern Python project config
-├── CLAUDE.md                   # AI assistant context file
 ├── README.md                   # This file
 │
 ├── solution-guidance/          # Core ML modules
@@ -1110,7 +1109,7 @@ git push origin feature/new-lag-window
 
 - All new features must include tests
 - Maintain test coverage above 80%
-- Update documentation (README.md, CLAUDE.md, docstrings)
+- Update documentation (README.md, docstrings)
 - Follow existing code style (PEP 8)
 - Increment `MODEL_VERSION` for ML changes
 - Add entry to `CHANGELOG.md` (if exists)
@@ -1169,9 +1168,9 @@ SOFTWARE.
 
 ### Documentation
 
-- **Technical Details**: See [CLAUDE.md](CLAUDE.md) for AI assistant context
 - **API Reference**: See [API Documentation](#api-documentation) section above
 - **Code Examples**: See [Usage Guide](#usage-guide) section above
+- **Architecture**: See [Technical Architecture](#technical-architecture) section above
 
 ### Getting Help
 
